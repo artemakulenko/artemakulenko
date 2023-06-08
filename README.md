@@ -1,16 +1,30 @@
-### Hi there 👋
+<!-- ### Hi there <a href="https://www.gautamkrishnar.com/"></a> -->
 
-<!--
-**artemakulenko/artemakulenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /></h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Меня зовут Артем, я верстальщик и начинающий фронтенд-разработчик</p>
+<p>Тут будет небольшое количество моих пет-проектов, разделенное на темы</p>
+
+
+<h2>Чистый JS</h2>
+<p>Список отсортирован от более простых вещей к более сложным</p>
+<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<ul>
+  <li><a href="https://github.com/artemakulenko/guess-my-number">Guess my Number</a></li>
+  <li><a href="https://github.com/artemakulenko/pig-game">Pig Game</a></li>
+  <li><a href="https://github.com/artemakulenko/bankist">Bankist</a></li>
+  <li><a href="https://github.com/artemakulenko/mappy">Mappy</a></li>
+  <li><a href="https://github.com/artemakulenko/forkify">Forkify</a></li>
+</ul>
+
+
+<h2>Верстка</h2>
+<img align='right' src='https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif' width='200'>
+<ul>
+  
+  <li><a href="https://github.com/artemakulenko/bankist-landing">Bankist Landing</a></li>
+  <li><a href="https://github.com/artemakulenko/ModestoFlowers-test-task">Modesto Flowers</a></li>
+  <li> <a href="https://github.com/artemakulenko/iBrush-test-task">iBrush</a> </li>
+  
+</ul>
